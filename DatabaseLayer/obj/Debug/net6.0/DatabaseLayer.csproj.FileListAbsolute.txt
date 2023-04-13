@@ -1,0 +1,28 @@
+E:\C# & .NET\TodoAPI\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.deps.json
+E:\C# & .NET\TodoAPI\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.dll
+E:\C# & .NET\TodoAPI\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.pdb
+E:\C# & .NET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.csproj.AssemblyReference.cache
+E:\C# & .NET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# & .NET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.AssemblyInfoInputs.cache
+E:\C# & .NET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.AssemblyInfo.cs
+E:\C# & .NET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.csproj.CoreCompileInputs.cache
+E:\C# & .NET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.dll
+E:\C# & .NET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\refint\DatabaseLayer.dll
+E:\C# & .NET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.pdb
+E:\C# & .NET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\ref\DatabaseLayer.dll
+E:\C# & .NET\TodoAPI\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.runtimeconfig.json
+E:\C# & .NET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.genruntimeconfig.cache
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.deps.json
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.runtimeconfig.json
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.dll
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\bin\Debug\net6.0\DatabaseLayer.pdb
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.csproj.AssemblyReference.cache
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.AssemblyInfoInputs.cache
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.AssemblyInfo.cs
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.csproj.CoreCompileInputs.cache
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.dll
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\refint\DatabaseLayer.dll
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.pdb
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\DatabaseLayer.genruntimeconfig.cache
+E:\CSharpanddotNET\TodoAPI\DatabaseLayer\obj\Debug\net6.0\ref\DatabaseLayer.dll

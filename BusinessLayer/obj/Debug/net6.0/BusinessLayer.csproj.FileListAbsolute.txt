@@ -1,0 +1,30 @@
+E:\C# & .NET\TodoAPI\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+E:\C# & .NET\TodoAPI\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+E:\C# & .NET\TodoAPI\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+E:\C# & .NET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\C# & .NET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# & .NET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\C# & .NET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+E:\C# & .NET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\C# & .NET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+E:\C# & .NET\TodoAPI\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+E:\C# & .NET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+E:\C# & .NET\TodoAPI\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+E:\C# & .NET\TodoAPI\BusinessLayer\bin\Debug\net6.0\DatabaseLayer.dll
+E:\C# & .NET\TodoAPI\BusinessLayer\bin\Debug\net6.0\DatabaseLayer.pdb
+E:\C# & .NET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\bin\Debug\net6.0\DatabaseLayer.dll
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\bin\Debug\net6.0\DatabaseLayer.pdb
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+E:\CSharpanddotNET\TodoAPI\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
